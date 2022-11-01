@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: "Ejemplo"
 author: "Autor"
@@ -9,32 +10,39 @@ tags:
 - Tema 1
 - Tema 2
 - Tema 3
+
+
 ---
 
-## Title 1
-### Title 2
-#### Title 3
+## Memoria
 
+badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf  badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf  badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf  badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf  badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf badskjlfhakjfwa wekjfhnwaehkw kewfdhowehnf 
 
-> I am passionate about good practices that allow you to work in an organized way and facilitate team work.
+> Esta es una nota.
 
-[GitHub Pages](https://pages.github.com/)
+[Tigres](https://es.wikipedia.org/wiki/Panthera_tigris)
 
 ```
 python3 -m venv env
 ```
 
-#### References 
-1. Item 1
-2. Item 2
+### Esto es una lista
+1. Primer item
+2. Segunda item
+3. Tercer item
 
-#### References 
+
+### Esto es otra lista
 - Item 1
 - Item 2
+- Item 3
+
+
+### Foto
+![beach1](https://user-images.githubusercontent.com/117201437/199332593-592e330b-e5df-4d22-a1e4-528de6bbcae3.jpg)
+
 
 ## Comments
-Hola
-
 <script src="https://giscus.app/client.js"
         data-repo="alexvillanuevacabrera/alexvillanuevacabrera.github.io"
         data-repo-id="R_kgDOIWlOKg"
