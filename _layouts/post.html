@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h2>
+  {{ page.title }} <a href="{{ site.url }}{{site.baseurl}}/project.html" class="arrow"><i class="fa fa-arrow-left" aria-hidden="true"></i><a>
+</h2>
+{% if page.image %}
+  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+{% endif %}
+<article>
+  {{ content }}
+</article>
+{% if site.hide_post_date != true %}
+  {% include post-date.html %}
+{% endif %}

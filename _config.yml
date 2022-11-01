@@ -1,0 +1,43 @@
+# Site settings
+title: Guillermo Villanueva 
+description: Personal Website
+author: Guillermo
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+permalink: /:title
+  
+plugins:
+  - jekyll-feed
+
+# Navigation menu
+links:
+  - title: Sobre mi
+    url: /index.html
+  - title: Medicina
+    url: /project.html
+  - title: Nutrición
+    url: /nutricion.html
+  - title: Ejercicio Físico
+    url: /ejercicio.html
+
+# Social-icons
+social:
+- {icon: 'github',     link: 'https://github.com/alexvillanuevacabrera'}
+- {icon: 'linkedin',   link: 'https://www.linkedin.com/in/alex-villanueva-cabrera-064697167/'}
+- {icon: 'envelope',   link: 'mailto:nuevavilla9@yahoo.es'}
+
+sharing_button_prompt: 'Feel free to share!'
+
+post_date_prefix: 'Written on'
+
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
