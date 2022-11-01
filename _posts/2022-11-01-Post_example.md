@@ -38,17 +38,17 @@ python3 -m venv env
 Hola
 
 <script src="https://giscus.app/client.js"
-        data-repo="guillermovillanuevabenito/guillermovillanuevabenito.github.io"
-        data-repo-id="R_kgDOH4qYSg"
+        data-repo="alexvillanuevacabrera/alexvillanuevacabrera.github.io"
+        data-repo-id="R_kgDOIWkwzg"
         data-category="General"
-        data-category-id="DIC_kwDOH4qYSs4CSOxo"
+        data-category-id="DIC_kwDOIWkwzs4CSUWr"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
         data-input-position="bottom"
         data-theme="light"
-        data-lang="en"
+        data-lang="es"
         crossorigin="anonymous"
         async>
 </script>
