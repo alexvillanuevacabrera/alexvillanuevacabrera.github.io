@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "Example Post"
+title: "Ejemplo"
 author: "Autor"
 categories: journal
 tags: [documentation,sample]
 image: set.jpeg
 tags:
-- VS code
-- Git
-- GitHub
-- Virtual environment
-- Command Line
+- Tema 1
+- Tema 2
+- Tema 3
 ---
 
 ## Title 1
@@ -39,9 +37,9 @@ Hola
 
 <script src="https://giscus.app/client.js"
         data-repo="alexvillanuevacabrera/alexvillanuevacabrera.github.io"
-        data-repo-id="R_kgDOIWkwzg"
+        data-repo-id="R_kgDOIWlOKg"
         data-category="General"
-        data-category-id="DIC_kwDOIWkwzs4CSUWr"
+        data-category-id="DIC_kwDOIWlOKs4CSUYR"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
