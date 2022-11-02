@@ -39,7 +39,7 @@ sharing_button_prompt: 'Feel free to share!'
 post_date_prefix: 'Written on'
 
 paginate: 1;
-paginate_path: "/articles/page:num/"
+paginate_path: "/articles/index/page:num/"
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
