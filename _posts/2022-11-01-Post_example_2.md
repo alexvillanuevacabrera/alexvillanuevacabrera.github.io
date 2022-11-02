@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ejemplo 2"
+title: "Ejemplo 1"
 author: "Autor"
 categories: journal
 tags: [documentation,sample]
@@ -33,7 +33,6 @@ python3 -m venv env
 - Item 2
 
 ## Comments
-Hola
 
 <script src="https://giscus.app/client.js"
         data-repo="alexvillanuevacabrera/alexvillanuevacabrera.github.io"

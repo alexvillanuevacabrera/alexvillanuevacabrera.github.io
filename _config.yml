@@ -15,13 +15,14 @@ permalink: /:title
   
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Navigation menu
 links:
   - title: Sobre mi
     url: /index.html
   - title: Medicina
-    url: /project.html
+    url: /articles/index.html
   - title: Nutrición
     url: /development.html
   - title: Ejercicio Físico
@@ -37,6 +38,8 @@ sharing_button_prompt: 'Feel free to share!'
 
 post_date_prefix: 'Written on'
 
+paginate: 1;
+paginate_path: "/articles/page:num/"
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
